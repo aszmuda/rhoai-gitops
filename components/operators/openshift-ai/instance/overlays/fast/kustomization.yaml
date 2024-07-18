@@ -9,6 +9,7 @@ components:
   - ../../components/components-distributed-compute
   - ../../components/components-serving
   - ../../components/components-training
+  - ../../components/custom-certificates
   - ../../components/default-notebook-pvc-size
   - ../../components/idle-notebook-culling
   - ../../components/notebook-pod-sizes
