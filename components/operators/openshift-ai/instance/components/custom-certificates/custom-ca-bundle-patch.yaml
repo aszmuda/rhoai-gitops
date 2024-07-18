@@ -46,6 +46,9 @@
       CV4Ks2dH/hzg1cEo70qLRDEmBDeNiXQ2Lu+lIg+DdEmSx/cQwgwp+7e9un/jX9Wf
       8qn0dNW44bOwgeThpWOjzOoEeJBuv/c=
       -----END CERTIFICATE-----
-  
+- op: add
+  path: /spec/trustedCABundle
+  value:
+    managementState: Managed
 
       
