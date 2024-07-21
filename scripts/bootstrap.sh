@@ -5,7 +5,7 @@ set -e
 source "$(dirname "$0")/functions.sh"
 
 LANG=C
-TIMEOUT_SECONDS=45
+TIMEOUT_SECONDS=300
 OPERATOR_NS="openshift-gitops-operator"
 ARGO_NS="openshift-gitops"
 GITOPS_OVERLAY=components/operators/openshift-gitops/operator/overlays/latest/
